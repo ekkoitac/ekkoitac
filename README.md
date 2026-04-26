@@ -16,7 +16,7 @@
 ## What I'm Doing
 
 - **Living in the future** - Learning and building tools to make agentic engineering faster for everyone
-- **Writing about AI workflows** - Sharing my learnings on [ekkoitac.me](https://ekkoitac.me)
+- **Writing about AI workflows** - Sharing my learnings on [ekkoitac](https://ekkoitac.me)
 - **Rapid prototyping** - Full apps in days, not months
 
 ---
